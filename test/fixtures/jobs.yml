@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job_to_be_done: MyString
+  brute_price: 1
+  account_login: MyString
+  account_password: MyString
+  conclued_at: 2015-03-13 19:35:53
+
+two:
+  job_to_be_done: MyString
+  brute_price: 1
+  account_login: MyString
+  account_password: MyString
+  conclued_at: 2015-03-13 19:35:53
